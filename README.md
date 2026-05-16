@@ -17,7 +17,10 @@ O avanço subsequente superou a estaticidade dos modelos iniciais com a introdu�
 ---
 ### Metodologia
 ---
-#### Utilizar 3 Embeddings para comparar as leis
+#### Utilizar 3 Embeddings para comparar as leis: 
+##### - paraphrase-multilingual-MiniLM-L12-v2; 
+##### - distiluse-base-multilingual-cased-v2; 
+##### - paraphrase-multilingual-mpnet-base-v2
 #### Um power bi que mostra a comparação semântica das leis (quoruns) em 3 embeddings diferentes
 #### Embedding Layer (alimentar o modelo com textos para melhorar a precisão e ajustar melhor os pesos)
 #### Transcrever as explicações sobre embeddings antigas que esse vídeo dá, para mostrar como chegamos na conclusão de utilizar os modelos mais recentes: https://www.youtube.com/watch?v=yVZTtnSkya8
