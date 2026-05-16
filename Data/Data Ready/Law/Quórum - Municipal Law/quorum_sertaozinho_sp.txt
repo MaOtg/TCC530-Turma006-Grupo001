@@ -4,3 +4,5 @@ Art. 19: As deliberações da Câmara serão tomadas por maioria de votos, prese
 Art. 40, § 3º: O veto será apreciado pela Câmara [...] só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores.
 Art. 111, § 1º: A constituição de consórcios municipais dependerá de autorização legislativa
 .
+Art. 15, Parágrafo único, a) O parecer [do Tribunal de Contas] somente poderá ser rejeitado por decisão de 2/3 (dois terços) dos membros da Câmara
+.
