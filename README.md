@@ -23,6 +23,10 @@ O avanço subsequente superou a estaticidade dos modelos iniciais com a introdu�
 #### Transcrever as explicações sobre embeddings antigas que esse vídeo dá, para mostrar como chegamos na conclusão de utilizar os modelos mais recentes: https://www.youtube.com/watch?v=yVZTtnSkya8
 #### Melhorias: Criar uma Embedding própria para uma análise ainda mais fiel
 ---
+### Método Inicial de Validação
+---
+![alt text](image.png)
+---
 ## Integrantes
 #### Anderson
 #### Daniel
