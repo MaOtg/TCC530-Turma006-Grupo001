@@ -1,0 +1,29 @@
+# Cache do Python e Compilações
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ambientes Virtuais Locais
+venv/
+.venv/
+env/
+ENV/
+
+# Arquivos de Log e Drivers do Sistema
+*.log
+chromedriver
+geckodriver
+.DS_Store
+Thumbs.db
+
+# Diretórios de Dados Locais (Armazenamento de PDFs, HTMLs e saídas volumosas)
+# Mantém o repositório leve e focado estritamente no código fonte
+leis_coletadas/
+leis_filtradas/
+
+# Arquivos de Dados e Relatórios Gerados pelo Pipeline
+# (Devem ser gerados localmente por quem executar o projeto)
+*.csv
+*.xlsx
