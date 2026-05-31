@@ -1,10 +1,6 @@
 # TCC530-Turma006-Grupo001
 ---
-## Repositório para nosso TCC.
----
-### Testes de Hipótese:
-#### Cidades vizinhas tendem a ter leis mais similares? 
-#### Cidades com populações parecidas adotam quóruns mais rígidos? 
+## Repositório para o TCC.
 ---
 ### Título possível:
 #### Análise de Similaridade Semântica em Dispositivos Normativos sobre Quórum de Votação
@@ -17,6 +13,9 @@ O avanço subsequente superou a estaticidade dos modelos iniciais com a introdu�
 ---
 ### Metodologia
 ---
+#### Coleta de 100 leis orgânicas municipais de São Paulo (as 100 mais populosas)
+#### Tratamento, limpeza e transformação das leis
+#### Análise prévia de inconstitucionalidade com base no quórum da constituição
 #### Utilizar 3 Embeddings para comparar as leis: 
 ##### - paraphrase-multilingual-MiniLM-L12-v2; 
 ##### - distiluse-base-multilingual-cased-v2; 
@@ -31,7 +30,7 @@ O avanço subsequente superou a estaticidade dos modelos iniciais com a introdu�
 ![alt text](image.png)
 ---
 ## Integrantes
-#### Anderson
+
 #### Daniel
 #### Fabio
 #### Juliana
