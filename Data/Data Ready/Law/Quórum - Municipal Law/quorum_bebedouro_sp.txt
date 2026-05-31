@@ -1,10 +1,40 @@
-Art. 43. Dependerão de voto favorável da maioria absoluta dos membros da Câmara Municipal a aprovação: I - do Estatuto dos Servidores; II - da rejeição do veto; III - da rejeição dos projetos de PPA, LDO e LOA.
-Art. 45, II. O vereador que estiver presidindo a sessão somente terá direito a voto: quando o seu voto for necessário para completar o quórum de 2/3 (dois terços) exigido para a matéria.
-Art. 54, § 1º. A proposta [de Emenda] [...] aprovada quando houver recebido, em ambas as votações, o voto favorável de 2/3 (dois terços) de seus membros.
-Art. 55. As leis complementares serão aprovadas pelo voto da maioria absoluta dos membros da Câmara.
-Art. 135. A lei de criação e supressão de distritos somente será aprovada se obtiver o voto favorável de 2/3 (dois terços) dos membros da Câmara Municipal
+Art. 15, § 1º. O número de vereadores corresponderá a 11 (onze), em conformidade com o disposto na alínea “d” do inciso IV do caput do art. 29 da Constituição Federal, alterado pela Emenda Constitucional n° 58, de 23 de setembro de 2009. (Redação dada pelas Emendas n° 20, de 2012)
 .
-Art. 139, Parágrafo único. A aprovação da lei que conceda isenção, anistia ou moratória dependerá do voto favorável de 2/3 (dois terços) dos membros da Câmara Municipal
+Art. 18, VIII, "a". o parecer do Tribunal [de Contas] somente deixará de prevalecer por decisão de 2/3 (dois terços) dos membros da Câmara;
+Art. 18, XIV. criar comissões especiais de inquérito, sobre fato determinado que se inclua na competência municipal, e por prazo certo, sempre que o requerer pelo menos um terço de seus membros;
+Art. 18, XVII. conceder título honorífico a pessoas que reconhecidamente tenham prestado serviços ao município, desde que seja o decreto legislativo aprovado pelo voto de, no mínimo, dois terços de seus membros;
+Art. 19, § 3º. A Mesa da Câmara Municipal decide pelo voto da maioria de seus membros; no caso de empate, prevalecerá a decisão ou propositura que contar com voto ou adesão do presidente da Câmara Municipal. (Redação dada pela Emenda à Lei Orgânica n° 23, de 2015)
 .
-Art. 140. A remissão de débitos tributários somente poderá ocorrer nos casos de calamidade pública ou notória pobreza do contribuinte, devendo a lei que a autorizar ser aprovada por maioria de 2/3 (dois terços) dos membros da Câmara Municipal, respeitados os termos da legislação federal
+Art. 20, Parágrafo único, II. O presidente da Câmara ou seu substituto só terá direito a voto: [...] II - na apreciação de projetos que exijam o voto favorável de 2/3 (dois terços) dos membros da Câmara;
+Art. 29, III. [Perderá o mandato o vereador] que deixar de comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias, salvo licença ou missão autorizada pela Câmara Municipal;
+Art. 29, § 2º. Nos casos dos incisos I, II, III e IV a perda do mandato será decidida pela Câmara Municipal, por voto da maioria de dois terços mediante provocação da Mesa ou de partido político representando no Legislativo, assegurada ampla defesa.
+Art. 31, V. [Extingue-se o mandato de vereador] faltar a um terço ou mais das sessões ordinárias, salvo licença ou missão por esta autorizada;
+Art. 34 e 35. O processo de cassação do mandato do vereador obedecerá aos seguintes princípios... (Todo o rito, que incluía recebimento de denúncia por 2/3, abertura de sessão por maioria absoluta e cassação por 2/3, foi Declarado inconstitucional na ADIN 142.516-0/1, pelo TJSP)
+.
+Art. 38, I. A convocação de sessão legislativa extraordinária da Câmara Municipal, que somente será possível no período de recesso, far-se-á: I - pela maioria absoluta dos membros da Câmara Municipal;
+Art. 41, caput. As sessões da Câmara Municipal de Bebedouro serão públicas e terão início com a presença de, no mínimo, metade de seus membros.
+Art. 41, § 2º. Salvo os casos expressos nesta Lei Orgânica, as deliberações da Câmara Municipal e de suas comissões, serão tomadas por maioria de votos, em turno único de discussão e votação, presente a maioria absoluta dos membros da Casa.
+Art. 42. Dependerão do voto favorável de dois terços dos membros da Câmara: 1. As leis concernentes a: a) aprovação e alteração do Plano Diretor; b) zoneamento urbano; c) concessão dos serviços públicos; d) alienação de imóveis; e) alteração de denominação de próprios, vias e logradouros públicos; f) obtenção de empréstimos de particular; g) concessão de moratória, remissão, isenção e anistia; 2. rejeição de parecer prévio do Tribunal de Contas; 3. concessão de títulos de cidadão honorário e outras honrarias; 4. alteração do nome do município; 5. aprovação e alteração do Regimento Interno; 6. destituição de componentes da Mesa; 7. cassação do prefeito, vice-prefeito e vereadores. 8. a alteração desta Lei Orgânica.
+Art. 43. Dependerão do voto favorável da maioria absoluta dos membros da Câmara Municipal a aprovação: I - do Estatuto dos Servidores Municipais; II - da rejeição do veto do Executivo; III - da rejeição dos projetos de Plano Plurianual, da Lei de Diretrizes Orçamentárias e da Lei Orçamentária Anual.
+Art. 44. A aprovação das matérias não constantes nos artigos anteriores dependerá do voto favorável da maioria dos vereadores presentes à sessão.
+Art. 45, II. O vereador que estiver presidindo a sessão somente terá direito a voto: [...] II - quando o seu voto for necessário para completar o quórum de 2/3 (dois terços) exigido para a matéria;
+Art. 47, § 1º. Imediatamente após a posse... havendo maioria dos membros da Câmara, elegerão os componentes da Mesa... § 1° A eleição far-se-á por maioria absoluta dos membros da Câmara.
+Art. 50. Qualquer componente da Mesa poderá ser destituído pelo voto de dois terços dos membros da Câmara, elegendo-se outro vereador para completar o mandato.
+Art. 51, Parágrafo único. As Comissões Parlamentares de Inquérito... serão criadas por requerimento escrito, encaminhado ao presidente da Casa e subscrito por, no mínimo, 1/3 (um terço) dos membros da Câmara...
+Art. 52, I. discutir e votar proposições que dispensam, na forma do Regimento Interno, a competência do plenário, salvo se houver, para a decisão deste, requerimento de um terço dos membros da Câmara;
+Art. 54, caput. A Lei Orgânica do Município poderá ser emendada mediante proposta: I - de um terço, no mínimo, dos vereadores; [...] III - da iniciativa popular assinada por, pelo menos, 5% (cinco por cento) do eleitorado do município.
+Art. 54, § 1º. A proposta será discutida e votada em dois turnos... e será considerada aprovada quando houver recebido, em ambas as votações, o voto favorável de 2/3 (dois terços) de seus membros.
+Art. 55. As leis complementares serão aprovadas pelo voto da maioria absoluta dos membros da Câmara...
+Art. 56. As leis ordinárias exigem para sua aprovação o voto favorável da maioria dos vereadores presentes à sessão, excetuando-se os casos previstos nesta Lei Orgânica.
+Art. 59. Ressalvadas as matérias consideradas exclusivas do Poder Executivo e do Legislativo, a iniciativa popular poderá ser exercida pela apresentação à Câmara Municipal de projeto de lei subscrito por, no mínimo, 5% (cinco por cento) dos eleitores do município.
+Art. 64, § 3º. A Câmara deliberará sobre a matéria vetada em um único turno de discussão e votação, no prazo de 30 (trinta) dias de seu recebimento, sendo o veto rejeitado pelo voto da maioria absoluta dos membros da Câmara Municipal.
+Art. 67. A matéria constante do projeto de lei rejeitado somente poderá constituir objeto de novo projeto na mesma sessão legislativa mediante proposta da maioria absoluta dos membros da Câmara.
+Art. 72, caput. Mediante proposta fundamentada da maioria dos membros da Câmara Municipal ou de 5% dos eleitores inscritos no município e aprovação do plenário por 2/3 (dois terços) de votos favoráveis, será submetida a plebiscito ou referendo questão de relevante interesse do município ou de distrito.
+Art. 74. O plebiscito ou referendo, convocado nos termos desta lei, será considerado aprovado ou rejeitado, por maioria simples, de acordo com o resultado homologado pelo Tribunal Regional Eleitoral.
+Art. 91 e 92. Infrações Político-Administrativas do Prefeito e Processo de Cassação. (O texto inteiro foi Declarado inconstitucional na ADIN 142.516-0/1, pelo TJSP)
+.
+Art. 135. A lei de criação e supressão de distritos somente será aprovada se obtiver o voto favorável de 2/3 (dois terços) dos membros da Câmara Municipal.
+Art. 139, Parágrafo único. A aprovação da lei que conceda isenção, anistia ou moratória dependerá do voto favorável de 2/3 (dois terços) dos membros da Câmara Municipal.
+Art. 140. A remissão de débitos tributários somente poderá ocorrer nos casos de calamidade pública ou notória pobreza... devendo a lei que a autorizar ser aprovada por maioria de 2/3 (dois terços) dos membros da Câmara Municipal...
+Art. 162A, caput. As emendas parlamentares ao projeto de Lei Orçamentária Anual serão aprovadas no limite de 1% (um por cento) da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo. (Incluído pela Emenda à Lei Orgânica n° 22, de 2015)
 .

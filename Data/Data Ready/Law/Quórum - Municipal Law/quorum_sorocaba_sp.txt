@@ -1,12 +1,28 @@
-Art. 36, § 1º: A proposta [de emenda] será discutida e votada em dois turnos [...] aprovada se obtiver, em ambos, o voto de dois terços dos membros da Câmara
-.
-Art. 38, I: [Iniciativa privativa do Prefeito] para leis que disponham sobre regime jurídico e servidores
-.
-Art. 40, § 2º: A aprovação e as alterações [de Códigos e Estatutos] dependerão do voto da maioria absoluta
-.
-Art. 40, § 3º: Dependerão do voto favorável de dois terços dos membros: [destituição da mesa, concessão de direito real de uso, alienação de imóveis, alteração de denominação]
-.
-Art. 46, § 5º: O veto [...] só poderá ser rejeitado pelo voto da maioria absoluta dos Vereadores
-.
-Art. 85. A remissão de créditos tributários somente poderá ocorrer nos casos de calamidade pública ou notória pobreza do contribuinte, devendo a lei que a autorize ser aprovada por maioria de dois terços dos membros da Câmara Municipal
-.
+Art. 8º A Câmara Municipal de Sorocaba será composta de 25 (vinte e cinco) Vereadores, nos termos previstos no art. 29, inciso IV, alínea “j”, da Constituição Federal. (Redação dada pela ELOM nº 75/2022)
+Art. 13, § 2º Nos casos previstos nos incisos I, II e VI, a perda do mandato será decidida pela Câmara por voto de 2/3 (dois terços) dos seus membros, mediante provocação da Mesa ou de partido político representado na Câmara, assegurada ampla defesa. (Redação dada pela ELOM nº 24/2007)
+Art. 18. Imediatamente após a posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão, em votação a descoberto, os componentes da Mesa, que ficarão automaticamente empossados.
+Art. 20. Qualquer componente da Mesa poderá ser destituído, pelo voto de 2/3 (dois terços) dos membros da Câmara Municipal, quando faltoso, omisso ou ineficiente no desempenho de suas atribuições...
+Art. 24, II. [O Presidente da Câmara só manifestará seu voto:] quando a matéria exigir, para a sua aprovação, o voto favorável de dois terços ou de maioria absoluta dos membros da Câmara;
+Art. 25, § 2º, I. discutir e votar projeto de lei que dispensar, na forma do Regimento, a competência do Plenário, salvo se houver recursos de um décimo dos membros da Câmara;
+Art. 25, § 2º, IV. receber petições ou queixas de qualquer pessoa física ou jurídica, identificada, na forma escrita, contra atos ou omissões dos Vereadores, das autoridades ou entidades públicas em geral, e deliberar, por maioria de 2/3 (dois terços) de seus membros, pelo seu prosseguimento ou encaminhamento a quem de direito. (Redação dada pela ELOM nº 34/2012)
+Art. 26. As comissões especiais de inquérito, que terão poderes de investigação próprios das autoridades judiciais, além de outros previstos no Regimento Interno, serão criadas pela Câmara mediante requerimento de um terço de seus membros, para apuração de fato determinado e por prazo certo... (Redação dada pela ELOM nº 57/2018)
+Art. 34, XIII. representar ao órgão competente do Ministério Público, mediante aprovação de dois terços dos seus membros, contra o Prefeito, o Vice-Prefeito e Secretários Municipais, pela prática de crime contra a Administração Pública...
+Art. 34, XVI. criar comissões especiais de inquéritos sobre fato determinado que se inclua na competência da Câmara Municipal, sempre que o requerer pelo menos um terço dos membros da Câmara;
+Art. 34, XX. decidir sobre a perda de mandato de Vereador, pelo voto da maioria absoluta dos Vereadores, nas hipóteses previstas nesta Lei Orgânica; (Redação dada pela ELOM nº 09/2001)
+Art. 34, XXI. conceder título honorífico a pessoas que tenham reconhecidamente prestado serviços ao Município, mediante decreto legislativo aprovado pela maioria de dois terços de seus membros.
+Art. 36, caput. A Lei Orgânica Municipal poderá ser emendada mediante proposta: I - de um terço, no mínimo, dos membros da Câmara Municipal;
+Art. 36, § 1º A proposta de emenda à Lei Orgânica Municipal será discutida e votada em dois turnos de discussão e votação, considerando-se aprovada quando obtiver, em ambos, dois terços dos votos dos membros da Câmara.
+Art. 39. A iniciativa popular será exercida pela apresentação, à Câmara Municipal, de projeto de lei subscrito por, no mínimo, 5% (cinco por cento) dos eleitores inscritos no Município...
+Art. 40, caput. A discussão e a votação da matéria constante da Ordem do Dia só poderão ser efetuadas com a presença da maioria absoluta dos membros da Câmara.
+Art. 40, § 1º A aprovação da matéria em discussão, salvo as exceções previstas nos parágrafos seguintes, dependerá do voto favorável da maioria dos Vereadores presentes à sessão.
+Art. 40, § 2º Dependerão do voto favorável da maioria absoluta dos membros da Câmara a aprovação e as alterações das seguintes matérias: 1. Código Tributário do Município; 2. Código de Obras ou de Edificações; 3. Estatuto dos Servidores Municipais; 4. Regimento Interno da Câmara; 5. criação de cargos e aumento de vencimentos de servidores; 6. rejeição do veto; 7. Lei Complementar. 8. concessão de título de cidadão honorário ou qualquer outra honraria ou homenagem. (Acrescido pela ELOM nº 24/2007)
+Art. 40, § 3º Dependerão do voto favorável de dois terços dos membros da Câmara: 1. As leis concernentes à: a) aprovação e alteração do Plano Diretor de Desenvolvimento Integrado; b) zoneamento urbano e parcelamento do solo; c) concessão de serviços públicos; d) concessão de direito real de uso; e) alienação de bens imóveis; f) aquisição de bens imóveis por doação com encargo; g) alteração de denominação de próprios, vias e logradouros públicos; h) obtenção de empréstimo de particular; e i) concessão de isenção, remissão ou anistia de tributos municipais. 2. realização de sessão secreta; 3. rejeição do projeto de lei orçamentária; 4. rejeição de parecer prévio do Tribunal de Contas; 5. concessão de título... (Revogado pela ELOM nº 24/2007); 6. aprovação da representação solicitando a alteração do nome do município; 7. destituição de componentes da Mesa.
+Art. 46, § 5º O veto será rejeitado por maioria absoluta dos membros da Câmara. (Redação dada pela ELOM nº 09/2001)
+Art. 52. As sessões somente poderão ser abertas pelo Presidente da Câmara ou por outro membro da Mesa, ou ainda, pelo Vereador com maior número de Legislaturas, com a presença mínima da maioria absoluta dos seus membros. (Redação dada pela ELOM nº 24/2007)
+Art. 53, III. A convocação extraordinária da Câmara Municipal dar-se-á: a requerimento da maioria absoluta dos membros da Câmara.
+Art. 53, IV. A convocação extraordinária da Câmara Municipal dar-se-á: por convocação popular, através de requerimento dirigido para o Presidente da Câmara e subscrito por 5% (cinco por cento) de eleitores cadastrados no Município...
+Art. 84. A concessão de isenção e de anistia de tributos municipais dependerá de autorização legislativa, aprovada por maioria de dois terços dos membros da Câmara Municipal.
+Art. 85. A remissão de créditos tributários somente poderá ocorrer nos casos de calamidade pública ou notória pobreza do contribuinte, devendo a lei que a autorize ser aprovada por maioria de dois terços dos membros da Câmara Municipal.
+Art. 92-A, § 1º As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 1,5% (um inteiro e cinco décimos por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto... (Redação dada pela ELOM 79/2025)
+Art. 92-A, § 4º Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no §1º deste artigo, até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior. (Acrescido pela ELOM nº 42/2015)
+Art. 94, IV. [São vedados] realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais, aprovados por dois terços dos membros da Câmara Municipal;

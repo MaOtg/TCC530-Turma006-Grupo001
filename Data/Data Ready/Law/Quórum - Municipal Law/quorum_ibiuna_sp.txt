@@ -1,22 +1,28 @@
-Art. 14: As deliberações da Câmara serão tomadas por maioria simples de votos presente a maioria absoluta de seus membros salvo disposição em contrário
-.
-Art. 17: As sessões serão públicas, salvo deliberação em contrário de dois terços (2/3) dos Vereadores
-.
-Art. 19, § 2º: ...motivo justo, aceito pela maioria absoluta dos membros da Casa [posse]
-.
-Art. 19, § 3º: ...havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa
-.
-Art. 30, III, a: o parecer do Tribunal [de Contas] somente deixará de prevalecer por decisão de dois terços (2/3) dos membros da Câmara
-.
-Art. 30, XI: conceder título de cidadão honorário [...] mediante proposta, pelo menos, de dois terços (2/3) dos membros da Câmara
-.
-Art. 40, § 1º: A proposta [de emenda] será votada em dois turnos [...] e aprovada por dois terços dos membros da Câmara Municipal
-.
-Art. 42: As leis complementares somente serão aprovadas se obtiverem maioria absoluta dos votos dos membros da Câmara Municipal
-.
-Art. 48: A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto [...] mediante proposta da maioria absoluta dos membros da Câmara
-.
-Art. 67, VI: Considerar-se-á afastado, definitivamente, do cargo o denunciado [Prefeito], que for declarado, pelo voto de dois terços, pelo menos, dos membros da Câmara, incurso em qualquer das infrações
-.
-Art. 186. (Disposições Transitórias) A revisão desta Lei Orgânica será iniciada 60 (sessenta) dias após o término da revisão constitucional prevista no artigo 3o das Disposições Transitórias da Constituição Federal e aprovada por 2/3 (dois terços) dos membros da Câmara, em dois turnos
-.
+Art. 5º, I. São requisitos para a criação de Distrito: I – eleitorado não inferior à quinta parte do número de habitantes existentes no Município;
+Art. 13, § 2º, III. A convocação extraordinária da Câmara Municipal far-se-á: [...] pelo Presidente da Câmara ou a requerimento da maioria dos membros da Casa, em caso de urgência ou interesse público relevante.
+Art. 14. As deliberações da Câmara serão tomadas por maioria simples de votos presente a maioria absoluta de seus membros salvo disposição em contrário constante na Constituição Federal e nesta Lei Orgânica.
+Art. 17. As sessões serão públicas, salvo deliberação em contrário de dois terços (2/3) dos Vereadores, adotada em razão de motivo relevante.
+Art. 18. As sessões somente poderão ser abertas com a presença de, no mínimo, um terço (1/3) dos membros da Câmara.
+Art. 19, § 2º. O Vereador que não tomar posse na sessão prevista no parágrafo anterior deverá fazê-lo dentro de quinze (15) dias... sob pena de perder o mandato, salvo motivo justo, aceito pela maioria absoluta dos membros da Casa.
+Art. 19, § 3º. Imediatamente após a posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que serão automaticamente empossados.
+Art. 21, § 3º. Qualquer componente da Mesa poderá ser destituído, pelo voto de dois terços (2/3) dos membros da Câmara, com direito de defesa prévia, quando faltoso, omisso, arbitrário ou ineficiente no desempenho de suas atribuições regimentais...
+Art. 21, § 4º. A destituição a que se refere o parágrafo anterior deverá ser proposta, no mínimo, pela maioria absoluta dos membros da Câmara, e a votação será secreta.
+Art. 22, § 6º. As Comissões Parlamentares de Inquérito... serão criadas pela Câmara Municipal, mediante requerimento de (1/3) de seus membros, para apuração de fato determinado e por prazo certo...
+Art. 24. Por deliberação da maioria de seus membros, a Câmara poderá convocar os Secretários Municipais e os responsáveis pela administração direta e indireta...
+Art. 28, IX. [Compete ao Presidente da Câmara] solicitar, por decisão da maioria absoluta da Câmara, a intervenção no Município nos casos admitidos pela Constituição Federal e pela Constituição Estadual;
+Art. 30, III, "a". o parecer do Tribunal [de Contas] somente deixará de prevalecer por decisão de dois terços (2/3) dos membros da Câmara;
+Art. 30, XI. conceder título de cidadão honorário ou conferir homenagem a pessoas... mediante proposta, pelo menos, de dois terços (2/3) dos membros da Câmara;
+Art. 33, II. [Extingue-se o mandato do Vereador] que deixar de comparecer, em cada sessão legislativa anual, à terça parte das sessões ordinárias da Câmara...
+Art. 40. A Lei Orgânica Municipal poderá ser emendada mediante proposta: I – de um terço, no mínimo, dos membros da Câmara Municipal; [...] III – de iniciativa popular, através de manifestação de, pelo menos, cinco por cento (5%) do eleitorado do Município.
+Art. 40, § 1º. A proposta será votada em dois turnos, com interstício mínimo de dez (10) dias, e aprovada por dois terços dos membros da Câmara Municipal.
+Art. 41. A iniciativa das leis cabe a qualquer Vereador, ao Prefeito e ao eleitorado que a exercerá sob a forma de moção articulada, subscrita, no mínimo, por cinco por cento (5%) do total do número de eleitores do Município.
+Art. 42. As leis complementares somente serão aprovadas se obtiverem maioria absoluta dos votos dos membros da Câmara Municipal, observados os demais termos de votação das leis ordinárias.
+Art. 44, Parágrafo único. Nos projetos de competência exclusiva da Mesa da Câmara não serão admitidas emendas que aumentem a despesa prevista, ressalvado se assinada pela maioria absoluta dos Vereadores.
+Art. 46, § 4º. A apreciação do veto pelo Plenário da Câmara será feita dentro de trinta (30) dias... considerando-se rejeitado pelo voto da maioria absoluta dos Vereadores.
+Art. 48. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara, ou por cinco por cento (5%) do eleitorado do Município.
+Art. 61, XIII. prestar à Câmara, dentro de quinze (15) dias úteis, as informações por ela solicitadas, salvo prorrogação, a seu pedido... e, neste caso, deverá ser deliberado pelo Plenário, por maioria simples;
+Art. 67, II. [Processo de cassação do Prefeito] de posse da denúncia, o Presidente da Câmara... consultará a Câmara sobre seu recebimento. Decidido o recebimento, pelo voto da maioria dos presentes...
+Art. 67, VI. Considerar-se-á afastado, definitivamente, do cargo o denunciado, que for declarado, pelo voto de dois terços, pelo menos, dos membros da Câmara, incurso em qualquer das infrações...
+Art. 124-A, § 1º. As emendas individuais ao Projeto de Lei Orçamentária serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida realizada no exercício anterior...
+Art. 134, III. [São vedados] a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade específica, aprovados pela Câmara pela maioria absoluta;
+Art. 186. A revisão desta Lei Orgânica será iniciada 60 (sessenta) dias após o término da revisão constitucional prevista no artigo 3o das Disposições Transitórias da Constituição Federal e aprovada por 2/3 (dois terços) dos membros da Câmara, em dois turnos.

@@ -1,10 +1,31 @@
-Art. 11: O plebiscito e o referendo serão realizados [...] mediante decisão da Câmara Municipal, motivada por iniciativa de um terço de seus membros
-.
-Art. 43: A proposta de emenda à Lei Orgânica será discutida e votada em dois turnos [...] aprovada quando obtiver, em cada votação, o voto favorável de dois terços dos membros da Câmara.
-Art. 45: As leis complementares serão aprovadas por maioria absoluta dos membros da Câmara.
-Art. 46: As leis ordinárias exigem, para sua aprovação, o voto favorável da maioria simples, presente a maioria de seus membros.
-Art. 55, § 5º: O veto somente será rejeitado pelo voto da maioria absoluta dos Vereadores.
-Art. 122, § 1º: A criação, transformação, fusão [...] de autarquias [...] dependem de prévia aprovação, por maioria absoluta, da Câmara Municipal
-.
-Art. 128: A criação ou supressão de distrito e subdistrito dependerá da manifestação da maioria absoluta dos membros de seu colégio eleitoral
-.
+Art. 11. O plebiscito e o referendo serão realizados, nos termos da lei complementar, mediante decisão da Câmara Municipal, motivada por iniciativa de um terço de seus membros, do Prefeito Municipal ou de, pelo menos, um por cento do eleitorado do Município, do distrito ou subdistrito...
+Art. 16, § 1º Não se exigirá audiência pública para os casos do Inciso V deste Artigo [legislação de uso e ocupação do solo], quando a elaboração ou alteração não causar impacto ambiental na área objeto da modificação pretendida e houver prévia e expressa anuência da maioria dos moradores ou domiciliados no mesmo local. (Parágrafo acrescido pela Emenda à Lei Orgânica nº 18, de 1992).
+Art. 25, Parágrafo único. Será de 21 (vinte e um) o número de Vereadores da Câmara Municipal. (Parágrafo único com redação dada pela Emenda à Lei Orgânica nº 10, de 1991).
+Art. 27, VIII. criar comissões especiais de inquérito sobre fato determinado que se inclua na competência municipal, sempre que o requerer pelo menos um terço de seus membros;
+Art. 42, III. [Perderá o mandato o Vereador] que deixar de comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias da Casa, salvo licença ou missão por esta autorizada;
+Art. 42, § 2º Nos casos dos incisos I, II, IV, VII, VIII e IX deste artigo, a perda do mandato será decidida pela Câmara Municipal, por voto nominal de dois terços de seus membros, mediante provocação da Mesa ou de partido político representado no Legislativo.
+Art. 45, caput. Imediatamente depois da posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara Municipal, elegerão os componentes da Mesa...
+Art. 46, caput. A eleição para renovação da Mesa Diretora realizar-se-á no 2º (segundo) semestre do ano que se encerra o mandato dos representantes do 1º biênio, em sessão extraordinária, com a presença da maioria absoluta, pela maioria simples e por meio de voto secreto... (Redação dada pela Emenda à Lei Orgânica nº 82, de 2018).
+Art. 47, Parágrafo único. Qualquer componente da Mesa poderá ser destituído pelo voto de dois terços dos membros da Câmara Municipal, quando faltoso, omisso ou ineficiente no desempenho de suas atribuições regimentais...
+Art. 50, II. [O Presidente da Câmara ou seu substituto terá voto] quando a matéria exigir, para sua aprovação maioria absoluta ou qualificada dos membros da Câmara; (Inciso com redação dada pela Emenda à Lei Orgânica nº 82, de 2018).
+Art. 53. As sessões só poderão ser abertas com a presença de, no mínimo, um terço dos membros da Câmara.
+Art. 54, III. A convocação extraordinária da Câmara Municipal, somente possível no período de recesso, far-se-á: [...] III - por maioria de seus membros;
+Art. 57, caput. As comissões especiais de inquérito... serão criadas mediante requerimento de um terço de seus membros, para a apuração de fato determinado e por prazo certo...
+Art. 62, caput. A Lei Orgânica do Município será emendada mediante proposta: [...] II - de um terço no mínimo, dos membros da Câmara Municipal; III - de cidadãos, mediante iniciativa popular, nos termos da lei, assinada, no mínimo, por um por cento dos eleitores do Município.
+Art. 62, § 1º A proposta de emenda à Lei Orgânica será votada em dois turnos, com o interstício mínimo de dez dias, considerando-se aprovada aquela que obtiver, em ambos, o voto favorável de dois terços dos membros da Câmara Municipal. (Parágrafo com redação dada pela Emenda à Lei Orgânica nº 51, de 1997).
+Art. 64, caput. A apresentação de projeto de lei poderá dar-se por iniciativa dos Vereadores, do Prefeito Municipal ou por iniciativa popular, através de abaixo-assinado com assinatura de, pelo menos, um por cento dos eleitores do Município.
+Art. 67, I. Não será admitido aumento da despesa prevista: I - nos projetos de iniciativa privativa do Prefeito Municipal, ressalvado o processo legislativo orçamentária e nos demais casos em que houver a anuência da maioria absoluta dos Vereadores, apontando os recursos a serem remanejados;
+Art. 69, § 1º As leis complementares exigem, para sua aprovação, o voto favorável da maioria absoluta dos membros da Câmara Municipal.
+Art. 70, caput. As leis ordinárias exigem, para sua aprovação, o voto favorável da maioria simples dos membros da Câmara Municipal ou da Comissão Permanente de mérito... (Artigo modificado pela Emenda à Lei Orgânica nº 45, de 1996).
+Art. 70, Parágrafo único, II. Os projetos de Leis Ordinárias serão apreciados pelo Plenário sempre que: [...] II - houver solicitação de um quinto dos membros da Câmara;
+Art. 71. Depende do voto de dois terços dos membros da Câmara Municipal: I - aprovação de emenda à Lei Orgânica; II - rejeição do parecer do Tribunal de Contas; III - admissibilidade de acusação contra o Prefeito e cassação de seu mandato; IV - decretação da perda do mandato de Vereador; V - destituição de membro da Mesa; VI - alienação de bens imóveis; VII - concessão de homenagem.
+Art. 72. A discussão e a votação da matéria constante da ordem do dia só poderão ser efetuadas com a presença da maioria absoluta dos membros da Câmara Municipal.
+Art. 74, § 2º O disposto neste artigo [prazo de urgência e trancamento de pauta] aplica-se, também, aos projetos de autoria de Vereadores subscritos por um terço dos membros da Câmara Municipal.
+Art. 78, § 3º O veto do Prefeito será rejeitado por votação contrária da maioria dos vereadores.
+Art. 79. A propositura, de autoria de membro da Câmara Municipal, rejeitada, somente poderá ser reapresentada, na mesma Sessão Legislativa, com a assinatura da maioria absoluta dos seus membros. (Artigo incluído pela Emenda à Lei Orgânica nº 12, de 1991).
+Art. 95. Depois que a Câmara Municipal declarar a admissibilidade da acusação contra o Prefeito, pelo voto de dois terços de seus membros, será ele submetido a julgamento perante o Tribunal de Justiça... e, perante a Câmara Municipal, nos crimes de responsabilidade.
+Art. 122, § 1º A criação, transformação, fusão, cisão, incorporação, privatização ou extinção das sociedades de economia mista, autarquias, fundações e empresas públicas dependem de prévia aprovação, por maioria absoluta, da Câmara Municipal.
+Art. 128. A criação ou supressão de distrito e subdistrito dependerá da manifestação da maioria absoluta dos membros de seu colégio eleitoral, através da realização de plebiscito.
+Art. 155, § 9º Em exceção à regra estabelecida no § 1º deste artigo, em existindo relevante interesse público, poderão ser dispensados do contrato os requisitos estabelecidos no referido parágrafo, após a devida autorização legislativa, mediante aprovação de 2/3 dos membros, a qual especificará os critérios objetivos para a seleção das pessoas jurídicas a serem beneficiadas; (Parágrafo acrescido pela Emenda à Lei Orgânica nº 79, de 2013).
+Art. 160. O Município só poderá vender imóvel de sua propriedade mediante prévia aprovação da Câmara Municipal, pelo voto de, no mínimo, dois terços de seus membros.
+Art. 209, III. [São vedados] a realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pela maioria absoluta da Câmara Municipal;

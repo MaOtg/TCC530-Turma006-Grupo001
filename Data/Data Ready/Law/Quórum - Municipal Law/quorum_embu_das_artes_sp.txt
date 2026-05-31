@@ -1,12 +1,50 @@
-Art. 32, Parágrafo Único, II. O Presidente da Câmara [...] só terá voto: quando a matéria exigir, para sua aprovação, o voto favorável de dois terços
+Art. 21, § 2º Nos casos dos incisos I, II e VI, a perda do mandato será decidida pela Câmara por voto aberto e maioria absoluta, mediante requerimento da Mesa ou de Partido Político representado na Casa, assegurada ampla defesa
 .
-Art. 36. A convocação extraordinária da Câmara [...] por requerimento da maioria absoluta dos Vereadores
+Art. 25, caput Imediatamente depois da posse, os Vereadores reunir-se-ão sob a Presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que ficarão automaticamente empossados
 .
-Art. 42, § 1º. A proposta [de Emenda] será discutida e votada em dois turnos [...] aprovada quando obtiver [...] o voto favorável de três quintos dos membros
+Art. 26, Parágrafo Único Considerar-se-ão eleitos aqueles que obtiverem: a) voto da maioria absoluta, em primeiro escrutínio; b) voto da maioria simples, em segundo escrutínio
 .
-Art. 43. As Leis Complementares serão aprovadas pela maioria absoluta dos membros da Câmara
+Art. 29 Qualquer componente da Mesa poderá ser destituído pelo voto de dois terços dos membros da Câmara, quando faltoso, omisso ou ineficiente no desempenho de suas atribuições regimentais...
 .
-Art. 49, § 4º. O veto [...] só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores
+Art. 30, Parágrafo Único As decisões da Mesa serão tomadas pelo voto da maioria de seus membros;
 .
-Art. 50. A matéria constante do projeto de lei ou processo rejeitado somente poderá ser reapresentada [...] mediante proposta da maioria absoluta dos membros da Câmara
+Art. 32, Parágrafo Único O Presidente da Câmara, ou seu substituto só terá voto: [...] II - quando a matéria exigir, para sua aprovação, o voto favorável de dois terços dos membros da Câmara;
+.
+Art. 33 A Câmara Municipal reunir-se-á, anualmente, em sua sede... com a presença mínima de um terço de seus membros
+.
+Art. 36 A convocação extraordinária da Câmara... será feita pelo Presidente e, fora do referido período, pelo Prefeito, ou por requerimento da maioria absoluta dos Vereadores, em caso de urgência ou interesse relevante...
+.
+Art. 42 A Lei Orgânica Municipal poderá ser emendada mediante proposta: I - de um terço, no mínimo, dos Vereadores; II - da população, subscrita por 1% (um por cento) do eleitorado do Município;
+.
+Art. 42, § 1º A proposta será discutida e votada em dois turnos... considerando-se aprovada quando obtiver, em ambas as votações, o voto favorável de três quintos dos membros da Câmara Municipal
+.
+Art. 43 As Leis Complementares serão aprovadas pela maioria absoluta dos membros da Câmara, observados os demais termos de votação das leis ordinárias
+.
+Art. 43, § 2º Dependerão do voto favorável da maioria absoluta dos membros da Câmara as Leis Ordinárias concernentes às seguintes matérias: I - Zoneamento Urbano; II - concessão de serviços públicos; III - Concessão de Direito Real de Uso; IV - Criação de cargos e aumento de vencimento dos Servidores; V - Alienação de Bens Imóveis; VI - Aquisição de Bens Imóveis por doação, com encargos; VII - Autorização para tomar empréstimo de particular; VIII - Orçamento Municipal, Plano Plurianual e Lei de Diretrizes Orçamentárias; IX - Concessão de auxílios e subvenções
+.
+Art. 46, § 2º Cada Vereador terá direito de apresentar emenda, referente a 0,5% (meio porcento), da RECEITA CORRENTE LÍQUIDA DO ORÇAMENTO
+.
+Art. 49, § 4º O veto será apreciado em sessão única... e será rejeitado se obtiver o voto da maioria absoluta dos Vereadores
+.
+Art. 50 A matéria constante do projeto de lei ou processo rejeitado somente poderá ser reapresentada na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara ou mediante a subscrição de 10% (dez por cento) do eleitorado do Município
+.
+Art. 52 Respeitadas as hipóteses de iniciativa privativa previstas na Constituição, é assegurado ao conjunto de cidadãos que representam 1% (um por cento) do eleitorado inscrito no Município, a iniciativa de quaisquer projetos de lei
+.
+Art. 52, § 1º O projeto, com a respectiva justificativa, conterá a indicação do nome completo e do número do título eleitoral de todos os signatários, em listas organizadas por pelo menos uma entidade legalmente existente no Município há mais de 1 (um) ano, ou por grupo de 30 (trinta) cidadãos com domicílio eleitoral no Município...
+.
+Art. 53 Serão obrigatoriamente submetidas a referendo popular, conforme estabelecer legislação específica, as leis... quando assim o requerer 1% (um por cento) do eleitorado inscrito no Município
+.
+Art. 54 As questões relevantes ao destino do Município poderão ser submetidas a plebiscito, conforme disciplinar legislação específica, quando requerido por pelo menos 1% (um por cento) do eleitorado do Município
+.
+Art. 56, Parágrafo Único O Plenário pode avocar, pelo voto da maioria absoluta de seus membros, qualquer matéria ou atos submetidos à Mesa, à Presidência ou Comissões, para sobre eles deliberar
+.
+Art. 57 As deliberações da Câmara e suas Comissões serão tomadas por maioria de votos, presente a maioria de seus membros, salvo disposição em contrário nas Constituições Federal ou Estadual e nesta Lei Orgânica, que exija quorum superior qualificado
+.
+Art. 85 Toda entidade da sociedade civil de âmbito municipal ou, caso não o sendo, tendo mais de 100 (cem) filiados ou associados, poderá requerer ao Prefeito, ou a outra autoridade do Município, a realização de audiência pública...
+.
+Art. 136, § 3º Os Projetos de Lei mencionados neste artigo somente receberão emendas nas comissões da Câmara Municipal. Será final o pronunciamento das Comissões sobre as emendas, salvo se um terço dos Vereadores requerer ao Presidente a deliberação destas em Plenário
+.
+Art. 142-A As emendas parlamentares individuais Impositivas ao Projeto de Lei Orçamentária Anual - LOA, serão aprovadas no limite de 2% (dois por cento) da receita corrente líquida do exercício anterior...
+.
+Art. 156, Parágrafo Único Os terrenos definidos em projetos de loteamento como áreas verdes ou institucionais, somente poderão ser alterados na destinação, fim e objetivos para atender excepcional interesse público, mediante Lei específica, sujeita à aprovação da maioria absoluta da Câmara Municipal
 .

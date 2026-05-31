@@ -1,20 +1,22 @@
-Art. 46, II. A convocação extraordinária da Câmara Municipal dar-se-á: por dois terços dos Vereadores
-.
-Art. 47. A discussão e a votação da matéria constante da Ordem do Dia só poderá ser efetuada com a presença da maioria absoluta dos membros da Câmara
-.
-Art. 47, § 1º. A aprovação da matéria em discussão [...] dependerá do voto favorável da maioria dos Vereadores presentes à Sessão
-.
-Art. 58. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta
-.
-Art. 19, XIX. [Compete à Câmara] destituição do mandato de Prefeito, a juízo de dois terços dos seus membros, mediante votação nominal
-.
-Art. 25. Qualquer componente da Mesa poderá ser destituído, pelo voto de dois terços dos membros da Câmara, quando faltoso, omisso, ineficiente no desempenho de suas atribuições
-.
-Art. 46, § 2º. Dependerão do voto favorável da maioria absoluta dos membros da Câmara a aprovação e as alterações das seguintes matérias: I - Regimento Interno da Câmara; II - aumento de vencimentos de servidores; III - rejeição de veto; IV - aquisição de bens móveis por doação com encargos; V - alteração de denominação de próprios, vias e logradouros; VI - obtenção de empréstimo de particular
-.
-Art. 46, § 3º. Dependerão do voto favorável de dois terços dos membros da Câmara a aprovação e as alterações das seguintes matérias: I - leis complementares; II - Código de Obras ou de Edificações; III - Estatuto dos Servidores Públicos Municipais; IV - criação de cargos; V - Plano Diretor de Desenvolvimento Integrado
-.
-Art. 270, Parágrafo Único. As leis complementares exigem para a sua aprovação o voto favorável de dois terços dos membros da Câmara
-.
-Art. 20. (ADT) A Lei Orgânica do Município de Franca será revista e promulgada seu novo texto (...) sendo a nova lei promulgada pela Câmara Municipal mediante a aprovação de dois terços de seus membros
-.
+Art. 12. O número de Vereadores da Câmara Municipal de Franca, para cada legislatura, será o decorrente da aplicação da seguinte regra: I - nove Vereadores para o grupo dos primeiros 47.619 (quarenta e sete mil, seiscentos e dezenove) habitantes, acrescentando-se mais uma vaga para cada grupo de 47.619... até o limite de vinte e um Vereadores...; II - trinta e três Vereadores quando a população for de 1.000.001 (um milhão e um) habitantes, acrescentando-se uma vaga de Vereador para cada grupo de 121.951... até o limite de 41 (quarenta e um) Vereadores.... (Redação dada pela Emenda à Lei Orgânica nº 45/2007).
+Art. 16, XVIII. [Compete privativamente à Câmara:] decidir sobre a perda de mandato de Vereador, por voto nominal e de 2/3 (dois terços) dos membros da Câmara, nas hipóteses previstas em Lei; (Redação dada pela Emenda à Lei Orgânica nº 21/2001).
+Art. 16, XIX. [Compete privativamente à Câmara:] conceder, título honorífico a pessoas que tenham, reconhecidamente, prestado serviços ao Município, mediante Decreto Legislativo aprovado por 2/3 (dois terços) de seus membros, mediante votação nominal; (Redação dada pela Emenda à Lei Orgânica nº 21/2001).
+Art. 24, § 1º. A Mesa decidirá sempre por maioria de seus membros.
+Art. 25. Qualquer componente da Mesa poderá ser destituído, pelo voto de dois terços dos membros da Câmara, quando faltoso, omisso, ineficiente no desempenho de suas atribuições ou exorbite das atribuições a ele conferidas.... (Redação dada pela Emenda à Lei Orgânica nº 70/2016).
+Art. 32, IV. [Perderá o mandato o Vereador] que deixar de comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias da Câmara Municipal, salvo em caso de licença ou de missão oficial autorizada;
+Art. 32, § 2º. Nos casos dos incisos I, II, III, VI e VII deste artigo, a perda do mandato será decidida pela Câmara Municipal, por escrito e votação da maioria absoluta de seus membros, mediante provocação da Mesa ou de partido político representado na Câmara Municipal, assegurada ampla defesa. (Redação dada pela Emenda à Lei Orgânica nº 67/2016).
+Art. 45, caput. As sessões somente poderão ser abertas pelo Presidente da Câmara ou seu substituto legal, com a presença mínima de um terço de seus membros.
+Art. 46, II. A convocação extraordinária da Câmara Municipal dar-se-á: [...] II - por dois terços dos Vereadores;
+Art. 47, caput. A discussão e a votação da matéria constante da Ordem do Dia só poderá ser efetuada com a presença da maioria absoluta dos membros da Câmara.
+Art. 47, § 1º. A aprovação da matéria em discussão, salvo as exceções previstas nos parágrafos seguintes, dependerá do voto favorável da maioria dos Vereadores presentes à Sessão.
+Art. 47, § 2º. Dependerão do voto favorável da maioria absoluta dos membros da Câmara a aprovação e as alterações das seguintes matérias: I - Regimento Interno da Câmara; II - aumento de vencimentos de servidores; III - rejeição de veto; IV - aquisição de bens móveis por doação com encargos; V - alteração de denominação de próprios, vias e logradouros; VI - obtenção de empréstimo de particular;
+Art. 47, § 3º. Dependerão do voto favorável de dois terços dos membros da Câmara a aprovação e as alterações das seguintes matérias: (Eficácia suspensa pelo Tribunal de Justiça do Estado de São Paulo, conforme ADI nº 030307239.2011.8.26.0000) I - leis complementares; II - Código de Obras ou de Edificações; III - Estatuto dos Servidores Públicos Municipais; IV - criação de cargos; V - Plano Diretor de Desenvolvimento Integrado; VI - concessão de serviços públicos; VII - concessão de direito real de uso e concessão de uso de bens imóveis; VIII - alienação de bens imóveis; IX - orçamento e suplementações, plano plurianual e diretrizes orçamentárias; X - rejeição de parecer prévio do Tribunal de Contas; XI - concessão de título de Cidadão Honorário... XII - aprovação de representação solicitando a alteração do nome do Município; XIII - destituição de componentes da Mesa; XV - cassação do mandato do Prefeito, Vice-Prefeito e Vereadores; XVI - constituição ou participação em consórcios municipais... XVII - Código de Posturas; XVIII - Regime Jurídico Único dos Servidores.
+Art. 47, § 4º, II. O Presidente da Câmara, ou seu substituto legal, só terá voto: [...] II - Quando a matéria exigir sua aprovação voto favorável de dois terços dos membros da Câmara;
+Art. 49, § 1º. A proposta de emenda à Lei Orgânica do Municipal será discutida e votada em dois turnos de discussão e votação, considerando-se aprovada quando obtiver, em ambos, dois terços dos votos dos membros da Câmara.
+Art. 52, caput. A iniciativa popular será exercida pela apresentação, à Câmara Municipal, de projeto de lei subscrito por, no mínimo, cinco por cento dos eleitores inscritos no Município...
+Art. 57, § 5º. O veto somente será rejeitado pela maioria absoluta dos Vereadores, mediante votação nominal. (Redação dada pela Emenda à Lei Orgânica nº 21/2001).
+Art. 139, § 1º. O plebiscito e o referendo poderão ser propostos pelo Prefeito, pela Câmara de Vereadores ou por cinco por cento do eleitorado local, quorum este também exigido para a iniciativa popular de projetos de lei.
+Art. 146, § 2º. As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo... (Redação acrescida pela Emenda à Lei Orgânica nº 74/2017).
+Art. 146, § 9º. Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 4º deste artigo, até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior. (Redação acrescida pela Emenda à Lei Orgânica nº 74/2017).
+Art. 150, § 2º. Somente em caso de absoluta necessidade ou de calamidade pública, reconhecida por dois terços dos Vereadores, podem ser concedidos auxílios ou subvenções a entidades que não sejam reconhecidas de utilidade pública...
+Art. 152, Parágrafo único. A mesa diretora, pela sua maioria, poderá abrir crédito suplementar, por anulação de despesa, no orçamento destinado à Câmara Municipal de Franca, mediante prévia autorização legislativa específica do Plenário. (Redação dada pela Emenda à Lei Orgânica nº 58/2011).

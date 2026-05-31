@@ -1,10 +1,28 @@
-Art. 27, Parágrafo único: Salvo as exceções previstas nesta Lei Orgânica, as deliberações da Câmara Municipal serão tomadas por maioria de votos, presente a maioria absoluta de seus membros
-.
-Art. 28, § 1º: A proposta [de emenda] será votada em dois turnos [...] e aprovada por dois terços dos membros da Câmara Municipal
-.
-Art. 29, § 1º: As leis ordinárias exigem, para sua aprovação, o voto favorável da maioria dos Vereadores presentes à sessão
-.
-Art. 42: As leis complementares serão aprovadas se obtiverem 2/3 das votações dos membros da Câmara Municipal
-.
-Art. 33. (Disposições Transitórias) Esta Lei será obrigatoriamente revista, decorridos 5 (cinco) anos de sua promulgação. Por proposição e aprovação de 2/3 dos membros da Câmara Municipal, poderá ser alterada a qualquer tempo, ressalvado o disposto o art. 40, § 3° desta Lei Orgânica
-.
+Art. 10. A Câmara Municipal é composta por 10 (dez) Vereadores eleitos pelo sistema proporcional, como representantes do povo, com mandato de quatro anos. (Redação dada pela Emenda à Lei Orgânica n° 20, de 2006)
+Art. 13. No período de recesso, a Câmara poderá ser convocada extraordinariamente pelo Prefeito, pelo Presidente da Câmara ou a requerimento da maioria absoluta de seus membros, em caso de urgência ou interesse público relevante. (Redação dada pela Emenda à Lei Orgânica n° 6, de 1999)
+Art. 15. As sessões, com exceção das secretas, serão públicas, salvo deliberação em contrário, de 2/3 (dois terços) dos vereadores, adotada em razão de motivo relevante. (Redação dada pela Emenda à Lei Orgânica n° 39, de 1997)
+Art. 17. Por deliberação da maioria absoluta de seus membros, a Câmara poderá convidar o Prefeito e convocar o Secretário Municipal ou o Diretor equivalente, para, pessoalmente, no prazo máximo de 30 (trinta) dias, prestarem informações acerca de assuntos previamente determinados. (Redação dada pela Emenda à Lei Orgânica n° 43, de 1997)
+Art. 21, IX. solicitar, por decisão da maioria absoluta da Câmara, a intervenção no Município nos termos admitidos pela Constituição Federal e pela Constituição Estadual;
+Art. 22, § 1º Os dispostos nos incisos referidos de I a IX [matérias tributárias, empréstimos, auxílios, direito real de uso, alienação, normas urbanísticas, etc], dependem da decisão de 2/3 dos membros da Câmara e em duas discussões com interstício mínimo de 10 (dez) dias... (Redação dada pela Emenda à Lei Orgânica n° 64, de 1997)
+Art. 22, § 2º Os dispostos nos incisos referidos de X a XIII [LDO, PPA, LOA], dependem da decisão da maioria absoluta dos membros da Câmara, em duas discussões em sessões ordinárias e exclusivas. (Redação dada pela Emenda à Lei Orgânica n° 64, de 1997)
+Art. 22, Parágrafo único. As leis orçamentárias de que trata o inciso IV, dependem da decisão da maioria absoluta dos membros da Câmara, em 02 (duas) discussões, em sessões ordinárias, sucessivas e exclusivas. (Redação dada pela Emenda à Lei Orgânica n° 15, de 1999)
+Art. 23, VIII. a Câmara, mediante votação da maioria absoluta de seus membros estabelecerá voto de desagrado ao Secretário Municipal ou Diretor equivalente, que não esteja cumprindo suas funções com eficiência... (Redação dada pela Emenda Constitucional n° 5, de 1991)
+Art. 23, XI, "a". o parecer [do Tribunal de Contas] somente poderá ser rejeitado por decisão de dois terços dos membros da Câmara; (Redação dada pela Emenda à Lei Orgânica n° 11, de 1999)
+Art. 23, XII. criar comissões especiais de inquérito, sobre fato determinado que se inclua na competência municipal, sempre que o requerer, pelo menos, um terço de seus membros; (Redação dada pela Emenda à Lei Orgânica n° 11, de 1999)
+Art. 23, XXI, "e". a fixação da remuneração dos Vereadores será veiculada através de Resolução aprovada por decisão de maioria simples dos membros da Câmara. (Redação dada pela Emenda Constitucional n° 16, de 1992)
+Art. 23, XXII. conceder título de cidadão honorário ou qualquer outra honraria ou homenagem... mediante decreto legislativo, aprovado pelo voto de, no mínimo, dois terços de seus membros; (Redação dada pela Emenda à Lei Orgânica n° 11, de 1999)
+Art. 23, XXII, "e". a fixação da remuneração do Prefeito e do Vice será veiculada por Decreto Legislativo aprovado por decisão de maioria simples dos Membros da Câmara. (Redação dada pela Emenda Constitucional n° 16, de 1992)
+Art. 23, XXIV. conceder mediante aprovação de 2/3 dos Membros da Câmara Moção de: Protesto; Repúdio; apoio; Reconhecimento; Congratulação; Louvor; Aplauso e Agradecimento. (Incluído pela Emenda Constitucional n° 20, de 1993)
+Art. 26, § 2º Nos casos previstos nos incisos I, II e VI, a perda do mandato será decidida pela Câmara, por voto secreto e maioria absoluta, mediante provocação da Mesa ou de partido político representado no Legislativo, assegurada ampla defesa. (Redação dada pela Emenda à Lei Orgânica n° 10, de 1999)
+Art. 27, Parágrafo único. Salvo as exceções previstas nesta Lei Orgânica, as deliberações da Câmara Municipal serão tomadas por maioria de votos, presente a maioria absoluta de seus membros. (Incluído pela Emenda à Lei Orgânica nº 4, de 1999)
+Art. 28. A Lei Orgânica Municipal poderá ser emendada mediante proposta: I - de um terço, no mínimo, dos membros da Câmara Municipal; II - da iniciativa popular, que represente 5% do eleitorado...
+Art. 28, § 1º A proposta será votada em dois turnos com interstício mínimo de 10 ( dez ) dias, e aprovada por dois terços dos membros da Câmara Municipal.
+Art. 29. A iniciativa das Leis cabe a qualquer Vereador, ao Prefeito e ao eleitorado que a exercerá sob a forma de moção articulada, subscrita, no mínimo, por cinco por cento do total do número de eleitores do Município.
+Art. 29, § 1º As leis ordinárias exigem, para sua aprovação, o voto favorável da maioria dos Vereadores presentes à sessão. (Incluído pela Emenda à Lei Orgânica n° 1, de 1999)
+Art. 30. As leis complementares serão aprovadas pela maioria absoluta dos membros da Câmara, em dois turnos de discussão e votação, com interstício mínimo de vinte e quatro horas entre eles. (Redação dada pela Emenda à Lei Orgânica nº 9, de 1999)
+Art. 32, Parágrafo único. Nos projetos de competência exclusiva da Mesa da Câmara não serão admitidas emendas que aumentem a despesa prevista, ressalvado o disposto na parte final do inciso II deste artigo, se assinada pela maioria dos Vereadores.
+Art. 34, § 4º A apreciação do veto pelo Plenário da Câmara será dentro de trinta (30) dias, a contar de seu recebimento, em uma só discussão e votação, com parecer ou sem ele, considerando-se rejeitado pelo voto da maioria absoluta dos Vereadores.
+Art. 36. Qualquer propositura rejeitada, somente poderá constituir objetivo de novo projeto, na mesma Sessão Legislativa, mediante proposta e/ou aceitação através de Requerimento da maioria absoluta dos Membros da Câmara. (Redação dada pela Emenda Constitucional n° 25, de 1993)
+Art. 37, § 3º Somente por decisão de 2/3 (dois terços) dos membros da Câmara Municipal deixará de prevalecer o parecer emitido pelo Tribunal de Contas do Estado, ou órgão estadual incumbido dessa missão.
+Art. 127A. É obrigatória a execução orçamentária e financeira, de forma equitativa e observados os limites constitucionais, das programações incluídas por emendas impositivas individuais do Legislativo Municipal em Lei Orçamentária Anual, em montante correspondente a 1,2 % (um inteiro e dois décimos por cento) da receita corrente líquida realizada no exercício anterior... (Incluído pela Emenda à Lei Orgânica n° 25, de 2022)
+Art. 130, III. a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais, com finalidades precisas aprovadas pela Câmara por maioria absoluta;

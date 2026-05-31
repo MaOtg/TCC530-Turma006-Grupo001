@@ -1,23 +1,31 @@
-Art. 20, Parágrafo único. A eleição [da Mesa] far-se-á, em primeiro escrutínio, pela maioria absoluta da Câmara Municipal.
-Art. 23. Qualquer componente da Mesa poderá ser destituído [...] pelo voto de dois terços dos membros da Câmara.
-Art. 27. A discussão e a votação [...] só poderão ser efetuadas com a presença da maioria absoluta.
-Art. 39. O voto favorável de dois terços dos membros [...] será exigido nos casos de: rejeição do parecer do TC; emendas à Lei Orgânica; concessão de título; perda de mandato de Vereador; destituição de membro da Mesa; perda de mandato do Prefeito.
-Art. 41. As leis complementares serão aprovadas pela maioria absoluta.
-Art. 43. As leis ordinárias exigem [...] o voto favorável da maioria dos Vereadores presentes.
-Art. 51, § 3º. O veto somente poderá ser rejeitado pelo voto da maioria absoluta.
-Art. 8º, XV. criar Comissões Especiais de Inquérito, sobre fato determinado que se inclua na competência municipal, por prazo certo, sempre que o requerer, pelo menos, um terço de seus membros
-.
-Art. 8º, XVIII. conceder títulos de “Cidadão Campineiro” e de “Cidadão Emérito” a pessoas que, reconhecidamente, tenham prestado relevantes serviços ao Município, desde que seja o projeto de decreto legislativo aprovado pelo voto de, no mínimo, dois terços de seus membros
-.
-Art. 8º, XXII. representar ao Ministério Público, por dois terços de seus membros, para a instauração de processo contra o Prefeito, o Vice-Prefeito e os Secretários Municipais pela prática de crime contra a Administração Pública de que tomar conhecimento
-.
-Art. 24, Parágrafo único. A Mesa da Câmara decide pelo voto da maioria de seus membros
-.
-Art. 36. As Comissões Especiais de Inquérito terão poderes de investigação próprios das autoridades judiciais, além de outros previstos no Regimento Interno, e serão criadas mediante requerimento de um terço dos membros da Câmara, para apuração de fato determinado e por prazo certo
-.
-Art. 90. As questões relevantes aos destinos do Município poderão ser submetidas a plebiscito ou referendo, quando, pelo menos um por cento do eleitorado o requerer ao Tribunal Regional Eleitoral, ouvida a Câmara Municipal
-.
-Art. 91. A iniciativa popular no processo legislativo se dará mediante: I - proposta de emenda à Lei Orgânica Municipal, subscrita por, no mínimo, cinco por cento do eleitorado do Município; II - iniciativa de projetos de lei mediante a subscrição por, no mínimo, cinco por cento do eleitorado do Município
-.
-Art. 118. O Município poderá realizar obras de interesse público local, através de plano comunitário, mediante adesão mínima de 51% da população diretamente interessada, nos termos da lei
-.
+Art. 6º, § 2º. De conformidade com o disposto no inciso IV, do artigo 29 da Constituição Federal, a Câmara Municipal será composta, observados os seguintes limites: I- até 1.000.000 de habitantes será composta por 21 vereadores; II- a partir de 1.000.001 a 2.000.000 de habitantes, será composta por trinta e três vereadores; III- a partir de 2.000.001 a 3.000.000 de habitantes, será composta por trinta e cinco vereadores; IV- a partir de 3.000.001 a 4.000.000 de habitantes, será composta por trinta e nove vereadores; V - a partir de 4.000.001 a 5.000.000 de habitantes, será composta por quarenta e um vereadores;
+Art. 8º, XV. criar Comissões Especiais de Inquérito, sobre fato determinado que se inclua na competência municipal, por prazo certo, sempre que o requerer, pelo menos, um terço de seus membros;
+Art. 8º, XVIII. conceder títulos de “Cidadão Campineiro” e de “Cidadão Emérito” a pessoas que, reconhecidamente, tenham prestado relevantes serviços ao Município, desde que seja o projeto de decreto legislativo aprovado pelo voto de, no mínimo, dois terços de seus membros;
+Art. 8º, XXII. representar ao Ministério Público, por dois terços de seus membros, para a instauração de processo contra o Prefeito, o Vice-Prefeito e os Secretários Municipais pela prática de crime contra a Administração Pública de que tomar conhecimento.
+Art. 14, § 2º. Nos casos dos incisos I, II, IV e VIII deste artigo, a perda do mandato será decidida pela Câmara Municipal, por voto público e maioria de dois terços, mediante provocação da Mesa ou de partido político representado no Legislativo, assegurada ampla defesa.
+Art. 19, caput. Imediatamente depois da posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que ficarão automaticamente empossados.
+Art. 19, Parágrafo único. A eleição far-se-á, em primeiro escrutínio, pela maioria absoluta da Câmara Municipal.
+Art. 23, caput. Qualquer componente da Mesa poderá ser destituído, justificadamente e com direito da defesa prévia, pelo voto de dois terços dos membros da Câmara, quando faltoso, omisso ou ineficiente no desempenho de suas atribuições regimentais...
+Art. 24, Parágrafo único. A Mesa da Câmara decide pelo voto da maioria de seus membros.
+Art. 25, Parágrafo único. O Presidente da Câmara ou seu substituto só terá voto: [...] b) quando a matéria exigir, para sua aprovação, o voto favorável de dois terços dos membros da Câmara;
+Art. 26. As reuniões da Câmara serão públicas e só poderão ser abertas com a presença de, no mínimo, um terço dos seus membros.
+Art. 27. A discussão e a votação da matéria constante da ordem do dia só poderão ser efetuadas com a presença da maioria absoluta dos membros da Câmara Municipal.
+Art. 27, Parágrafo único. A aprovação da matéria colocada em discussão dependerá do voto favorável da maioria dos Vereadores presentes a sessão, ressalvados os casos previstos nesta lei.
+Art. 33. A convocação extraordinária da Câmara Municipal, somente possível no período de recesso, far-se-á: I - pela maioria absoluta dos membros da Câmara Municipal;
+Art. 36. As Comissões Especiais de Inquérito terão poderes de investigação próprios das autoridades judiciais, além de outros previstos no Regimento Interno, e serão criadas mediante requerimento de um terço dos membros da Câmara, para apuração de fato determinado e por prazo certo...
+Art. 39. O voto favorável de dois terços dos membros da Câmara Municipal será exigido nos casos de: I - rejeição do parecer prévio emitido pelo Tribunal de Contas do Estado; II - aprovação de emendas à Lei Orgânica; III - concessão de título de cidadania; IV - perda de mandato do Vereador; V - destituição de membro da Mesa; VI - perda de mandato do Prefeito por infrações político-administrativas.
+Art. 40. A Lei Orgânica do Município poderá ser emendada mediante proposta: I - de um terço, no mínimo, dos membros da Câmara Municipal; [...] III - de cidadãos, mediante iniciativa popular assinada, no mínimo, por cinco por cento dos eleitores.
+Art. 40, § 1º. A proposta será discutida e votada em dois turnos, considerando-se aprovada quando obtiver, em ambas as votações, o voto favorável de dois terços dos membros da Câmara Municipal.
+Art. 41. As leis complementares serão aprovadas pela maioria absoluta dos membros da Câmara, observados os demais termos da votação das leis ordinárias.
+Art. 43. As leis ordinárias exigem, para sua aprovação, o voto favorável da maioria dos Vereadores presentes na reunião.
+Art. 46. A iniciativa popular poderá ser exercida pela apresentação à Câmara Municipal de projeto de lei subscrito por no mínimo, cinco por cento do eleitorado do Município.
+Art. 51, § 3º. A Câmara deliberará sobre o veto em um único turno de discussão e votação, no prazo de 30 dias de seu recebimento, só podendo o veto ser rejeitado pelo voto da maioria absoluta dos membros da Câmara.
+Art. 54. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara.
+Art. 80, Parágrafo único. Os secretários municipais de secretarias responsáveis por mais de vinte por cento do orçamento municipal comparecerão à Câmara Municipal em até quinze dias após sua nomeação... para prestarem informações sobre suas propostas de gestão.
+Art. 90. As questões relevantes aos destinos do Município poderão ser submetidas a plebiscito ou referendo, quando, pelo menos um por cento do eleitorado o requerer ao Tribunal Regional Eleitoral, ouvida a Câmara Municipal.
+Art. 91. A iniciativa popular no processo legislativo se dará mediante: I- proposta de emenda à Lei Orgânica Municipal, subscrita por, no mínimo, cinco por cento do eleitorado do Município; II - iniciativa de projetos de lei mediante a subscrição por, no mínimo, cinco por cento do eleitorado do Município;
+Art. 118. O Município poderá realizar obras de interesse público local, através de plano comunitário, mediante adesão mínima de 51% da população diretamente interessada, nos termos da lei.
+Art. 168, § 6º. As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida prevista no projeto...
+Art. 168, § 8º. É obrigatória a execução orçamentária e financeira das programações a que se refere o § 6º deste artigo em montante correspondente a 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida realizada no exercício anterior...
+Art. 168, § 11. Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 8º deste artigo até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior.
+Art. 169, III. a realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com fim preciso, aprovados pela Câmara Municipal por maioria absoluta;

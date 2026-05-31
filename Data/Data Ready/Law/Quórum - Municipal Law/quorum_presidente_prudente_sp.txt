@@ -1,4 +1,39 @@
-Artigo 22, XXIV. [Câmara compete] fixar em 19 (dezenove) o número de Vereadores
-.
-Artigo 72, XXV. Considerar-se-á afastado, definitivamente, do cargo, o denunciado [Prefeito] que for declarado, pelo voto de dois terços, pelo menos, dos membros da Câmara, incurso em qualquer das infrações
-.
+Art. 12, § 4º, III. A convocação Extraordinária da Câmara Municipal far-se-á: [...] pelo Presidente da Câmara ou a requerimento da maioria dos membros da Casa em caso de emergência ou interesse público relevante;
+Art. 12, § 4º, IV. [A convocação Extraordinária da Câmara Municipal far-se-á:] por dois terços da Câmara Municipal, inclusive no período de recesso.
+Art. 13. As deliberações da Câmara serão tomadas por maioria de votos, presente a maioria de seus membros, salvo disposição em contrário na Constituição Federal e nesta Lei Orgânica.
+Art. 16. As Sessões serão públicas, salvo deliberação em contrário, de dois terços de Vereadores, adotada em razão de motivo relevante.
+Art. 17. As Sessões somente poderão ser abertas com a presença de, no mínimo, um terço dos Vereadores.
+Art. 18, § 1º. O Vereador que não tomar posse na Sessão prevista no “caput” deste artigo deverá fazê-lo dentro do prazo de quinze dias... sob pena de perda do mandato, salvo motivo justo, aceito pela maioria absoluta dos membros da Câmara.
+Art. 18, § 2º. Imediatamente após a posse, os Vereadores reunir-se-ão sob a Presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que serão automaticamente empossados.
+Art. 20, Parágrafo Único. Qualquer componente da Mesa poderá ser destituído, pelo voto de dois terços dos membros da Câmara, quando faltoso, omisso ou ineficiente no desempenho de suas atribuições regimentais...
+Art. 24, caput. A Mesa, pela maioria de seus Membros, dentre outras atribuições compete:
+Art. 25, § 4º. As Comissões Parlamentares de Inquérito... serão criadas pela Câmara Municipal, mediante Requerimento de dois terços dos seus Membros, para a apuração de fato determinado e por prazo certo...
+Art. 29, caput. Por deliberação da maioria de seus membros, a Câmara poderá convocar Secretário Municipal para, pessoalmente, prestar informações acerca de assuntos previamente estabelecidos.
+Art. 31, X. solicitar, por decisão da maioria absoluta da Câmara, a intervenção no Município nos casos admitidos pela Constituição Federal e Constituição Estadual.
+Art. 31, XIII, "b". [O Presidente vota apenas quando] a matéria exigir, para sua aprovação, o voto favorável de dois terços dos membros da Câmara;
+Art. 33, VII, "a". o parecer do Tribunal [de Contas] somente deixará de prevalecer por decisão de dois terços dos membros da Câmara;
+Art. 33, XIII. convocar os Secretários Municipais e Diretores da Administração Pública Municipal... para, no prazo de quinze dias, mediante requerimento subscrito por um terço dos seus membros, prestar informações sobre assunto previamente determinado...
+Art. 33, XV. criar comissão parlamentar de inquérito sobre fato determinado e prazo certo, mediante requerimento de um terço de seus membros;
+Art. 33, XVI. conceder título de Cidadão Honorário ou conferir homenagem a pessoas... mediante proposta pelo voto de dois terços dos membros da Câmara;
+Art. 38, § 1º. Nos casos dos incisos I a III, a perda do mandato será declarada pela Câmara Municipal, por voto aberto de dois terços de seus Membros...
+Art. 42, I. A Lei Orgânica Municipal poderá ser emendada mediante proposta: de um terço no mínimo, dos membros da Câmara Municipal;
+Art. 42, III. A Lei Orgânica Municipal poderá ser emendada mediante proposta: da população, subscrita por cinco por cento do eleitorado do Município.
+Art. 42, § 1º. A proposta será votada em dois turnos, com interstício mínimo de dez dias, e aprovada por dois terços dos membros da Câmara Municipal.
+Art. 43, caput. A iniciativa das Leis cabe a qualquer Vereador, ao Prefeito e ao eleitorado que a exercerá sob forma de moção articulada, subscrita, no mínimo, por cinco por cento do total do número de eleitores do Município.
+Art. 44. As Leis Complementares serão aprovadas por maioria absoluta. (Redação dada pelo art. 1º da Emenda à Lei Orgânica n.º 60/2017)
+Art. 47, § 4º. A apreciação do veto pelo Plenário da Câmara, será dentro de trinta dias a contar de seu recebimento... só podendo ser rejeitado pelo voto da maioria absoluta de seus membros, em votação aberta...
+Art. 49. A matéria constante de Projeto de Lei rejeitado, somente poderá constituir objeto de novo Projeto, na mesma sessão legislativa, mediante proposta de 2/3 dos membros da Câmara.
+Art. 73-A, IX. No caso de processo contra Vereador, se decidido pelo encaminhamento à Comissão de Ética e Disciplina, o que se dará por decisão da maioria absoluta da Câmara...
+Art. 73-A, X. Decidido o recebimento, pelo voto da maioria absoluta da Câmara, na mesma Sessão será constituída a Comissão Processante...
+Art. 73-A, XXV. Considerar-se-á afastado, definitivamente, do cargo, o denunciado que for declarado, pelo voto de dois terços, pelo menos, dos membros da Câmara, incurso em qualquer das infrações...
+Art. 109. A aquisição de um bem imóvel, por compra, recebimento de doação com encargo ou permuta, depende de prévia avaliação e autorização de dois terços do Legislativo.
+Art. 111. A alienação de um bem imóvel do Município mediante venda, doação, dação em pagamento, permuta ou investidura, depende de interesse público manifesto, prévia avaliação e autorização de dois terços do Legislativo...
+Art. 117, caput. O Município, preferentemente à venda ou doação de seus bens imóveis, outorgará concessão de direito real de uso, mediante prévia autorização de dois terços do Legislativo e processo licitatório.
+Art. 117, § 2º. A venda aos proprietários de imóveis lindeiros de áreas urbanas remanescentes e inaproveitáveis para edificações... dependerá apenas de prévia avaliação e autorização de dois terços do Legislativo, dispensada a licitação.
+Art. 160-A, § 1º. As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 2% (dois por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto... (Redação dada pelo art. 1º da Emenda à Lei Orgânica n.º 69/2025)
+Art. 160-A, § 3º. É obrigatória a execução orçamentária e financeira das programações oriundas de emendas individuais, em montante correspondente ao limite a que se refere o § 1º deste artigo... (Redação dada pelo art. 1º da Emenda à Lei Orgânica n.º 71/2025)
+Art. 160-A, § 8º. Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 3º deste artigo, até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior.
+Art. 166, III. a realização de operações de créditos que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pela Câmara, por maioria absoluta.
+Art. 267, § 1º. A iniciativa popular, no processo legislativo, será tomada por 5% (cinco por cento) do eleitorado do Município...
+Art. 267, § 2º. Quando for de interesse específico de bairro ou distrito, a iniciativa popular poderá ser tomada por 5% (cinco por cento) dos eleitores inscritos ali domiciliados.
+Art. 268. É assegurado, no âmbito municipal, o recurso de consultas referendárias ou plebiscitárias... cabendo a iniciativa ao Prefeito, a dois terços dos Vereadores da Câmara Municipal ou a 5% (cinco por cento) do eleitorado do Município.

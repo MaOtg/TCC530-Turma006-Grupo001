@@ -1,12 +1,26 @@
-Art. 34, II. rejeitar o parecer prévio do Tribunal de Contas [...] pelo voto de dois terços de seus membros
-.
-Art. 34, XXI. conceder título de cidadão honorário [...] aprovado pelo voto de, no mínimo, dois terços de seus membros
-.
-Art. 36. A proposta de emenda à Lei Orgânica será discutida e votada em dois turnos [...] aprovada quando obtiver, em ambos, o voto favorável de dois terços dos membros da Câmara Municipal
-.
-Art. 40. As leis complementares são aprovadas por maioria absoluta dos membros da Câmara
-.
-Art. 43. As deliberações da Câmara serão tomadas por maioria de votos, presente a maioria absoluta de seus membros, salvo disposição em contrário
-.
-Art. 51. O veto será apreciado pela Câmara [...] só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores
-.
+Art. 1º, § 2º, II. A soberania popular manifesta-se... pelo plebiscito, a respeito de questões relevantes, quando pelo menos um por cento do eleitorado do Município o requerer ao Tribunal Regional Eleitoral, ouvida a Câmara;
+Art. 1º, § 2º, III. [A soberania popular manifesta-se] pelo referendo, quando ao menos um por cento do eleitorado do Município o requerer à Câmara;
+Art. 12, caput. As sessões, deliberações e votações da Câmara e de suas Comissões serão públicas e tomadas por maioria de votos, presente a maioria absoluta de seus membros, salvo disposições em contrário, expressamente previstas nesta Lei Orgânica.
+Art. 12, Parágrafo único. Dependem do voto favorável de dois terços dos membros da Câmara: I - As leis concernentes a: a) aprovação a alteração do Plano Diretor de Desenvolvimento e Expansão Urbana; b) zoneamento urbano; c) concessão de serviços públicos; d) concessão de direito real de uso; e) alienação de bens imóveis; f) aquisição de bens imóveis por doação com encargo; g) obtenção de empréstimo de particular; II - realização de sessão secreta; (Revogado pela Emenda à Lei Orgânica nº 43/2002) III - destituição de componentes da Mesa.
+Art. 13. A Câmara terá vinte e um Vereadores a partir da legislatura que terá início em 01 de janeiro de 2013. (Redação dada pela Emenda à Lei Orgânica nº 59/2011)
+Art. 17, III. [Perderá o mandato o Vereador] que deixar de comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias da Câmara, salvo licença ou missão por esta autorizada;
+Art. 17, § 2º. Nos casos dos incisos I, II e VI [infringir proibições, falta de decoro ou condenação criminal], a perda do mandato á decidida pela Câmara, pelo voto de 2/3 (dois terços) de seus membros, mediante provocação da Mesa, de partido político representado na Casa, de eleitor e da Comissão de Ética... assegurada ampla defesa... (Redação dada pela Emenda à Lei Orgânica nº 35/1997)
+Art. 20, IV. normatizar a iniciativa popular a projetos de lei de interesse do Município, da cidade ou de bairros, através de manifestação de, pelo menos, cinco por cento do eleitorado, garantida a defesa nas Comissões Permanentes da Câmara...
+Art. 21, XIII. representar ao Ministério Público, por dois terços de seus membros, e instaurar processo contra o Prefeito, Vice-Prefeito e os Secretários Municipais, pela prática de crime contra a Administração Pública...
+Art. 21, XX. conceder título honorífico a pessoas que tenham, reconhecidamente, prestado serviços ao Município, mediante decreto legislativo aprovado por dois terços de seus membros;
+Art. 25. A convocação extraordinária da Câmara far-se-á pelo Presidente, pelo Prefeito ou a requerimento da maioria absoluta dos Vereadores, em caso de urgência ou de interesse público relevante...
+Art. 26. Imediatamente depois da posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa...
+Art. 27, § 1º. A eleição far-se-á, em primeiro escrutínio, pela maioria absoluta da Câmara.
+Art. 31. As Comissões Especiais de Inquérito... serão criadas mediante requerimento de um terço dos Vereadores que compõem a Câmara, para a apuração de fato determinado e por prazo certo...
+Art. 36, caput. Esta Lei Orgânica poderá ser emendada, mediante proposta: I - de um terço, no mínimo, dos membros da Câmara; [...] III - de cidadãos, mediante proposta subscrita por, no mínimo, cinco por cento do eleitorado.
+Art. 36, § 1º. A proposta será discutida e votada em dois turnos, com interstício mínimo de dez dias, considerando-se aprovada se obtiver, em cada um, dois terços dos membros da Câmara.
+Art. 43, caput e § 1º. Nas hipóteses em que se exige quórum qualificado para aprovação de qualquer proposição legislativa, repetir-se-á a votação quando for obtida apenas maioria relativa de votos favoráveis. § 1º Se na segunda votação ainda não for obtida a maioria qualificada de votos favoráveis, considerar-se-á prejudicada a proposição...
+Art. 44, § 4º. O veto será apreciado pela Câmara, dentro de trinta dias, a contar de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores.
+Art. 45. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara.
+Art. 46. As leis complementares serão aprovadas por maioria absoluta.
+Art. 59, § 1º. Se o Plenário, por dois terços de seus membros, entender procedentes as acusações [contra o Prefeito], determinará o envio do apurado à Procuradoria Geral da Justiça; se não, determinará o arquivamento.
+Art. 115, § 2º-A. A Lei de Diretrizes Orçamentárias deverá reservar o percentual de 1,8% (um inteiro e oito décimos por cento) a 2% (dois por cento) da receita liquida a ser prevista no Projeto de Lei Orçamentária... para atender às Emendas Parlamentares dos Vereadores... (Redação dada pela Emenda à Lei Orgânica nº 96/2025)
+Art. 115, § 2º-D. Não poderão ser apresentadas emendas parlamentares com valor inferior a 0,3% (três décimos por cento) do valor total destinado a cada vereador. (Redação dada pela Emenda à Lei Orgânica nº 98/2025)
+Art. 115, § 2º-L. Os restos a pagar provenientes das programações orçamentárias relativas às emendas parlamentares poderão ser considerados para fins de cumprimento da execução financeira até o limite de 1% (um por cento) da receita corrente líquida do exercício anterior... (Redação acrescida pela Emenda à Lei Orgânica nº 95/2023)
+Art. 117, III. [São vedados] a realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais com finalidade precisa, aprovados pela Câmara por maioria absoluta;
+Art. 122, § 3º. Somente pela decisão de dois terços dos membros da Câmara, deixará de prevalecer o parecer prévio do Tribunal de Contas.

@@ -1,5 +1,60 @@
-Art. 13. A revisão desta Lei Orgânica será realizada [...] pelo voto de dois terços dos Vereadores.
-Art. 29, § 1º. A votação e a discussão da matéria constante da ordem do dia só poderão ser efetuadas com a presença da maioria absoluta dos membros da Câmara.
-Art. 34, § 1º. A proposta de emenda à Lei Orgânica [...] aprovada quando obtiver, em ambos [os turnos], o voto favorável de dois terços dos membros.
-Art. 36. Dependerão de voto favorável da maioria absoluta [...] a aprovação: Código Tributário, Obras, Servidores, Regimento Interno, criação de cargos.
-Art. 37. Dependerão de voto favorável de dois terços [...] a aprovação: Plano Diretor, zoneamento, concessão de serviços, alienação de bens imóveis.
+Art. 9º. O Poder Legislativo é exercido pela Câmara Municipal, composta de quinze Vereadores, eleitos para cada legislatura... (Alteração feita pelo Art. 1º. - Emenda à Lei Orgânica nº 26, de 12 de fevereiro de 2020)
+.
+Art. 11, VIII. criar comissões especiais de inquéritos sobre fato determinado que se inclua na competência municipal, sempre que o requerer pelo menos um terço de seus membros
+.
+Art. 11, XIII. decidir sobre a perda do mandato de Vereador, por maioria absoluta, nas hipóteses previstas nos incisos I, II e IV, do artigo 18, mediante provocação da Mesa Diretora ou de partido político representado na Câmara; (Alteração feita pelo Art. 1º. - Emenda à Lei Orgânica nº 25, de 16 de outubro de 2019)
+.
+Art. 12. Cabe, ainda à Câmara, conceder título honorário a pessoas físicas ou jurídicas que reconhecidamente tenham prestado serviços ao Município, mediante decreto legislativo, aprovado pelo voto de, no mínimo, dois terços de seus membros. (Alteração feita pelo Art. 1º. - Emenda à Lei Orgânica nº 29, de 20 de abril de 2022)
+.
+Art. 18, III. [Perderá o mandato o Vereador] que deixar de comparecer, em cada sessão legislativa, à terça parte das sessões ordinárias, salvo licença ou missão autorizada pela Câmara Municipal
+.
+Art. 21. Imediatamente depois da posse, os Vereadores reunir-se-ão sob a presidência do mais votado dentre os presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que ficarão automaticamente empossados
+.
+Art. 22, Parágrafo único. Assegurada ampla defesa, qualquer componente da Mesa poderá ser destituído, pelo voto de dois terços dos membros da Câmara, quando faltoso, omisso ou ineficiente no desempenho de suas atribuições regimentais...
+.
+Art. 26, II. [O Presidente da Câmara ou seu substituto só terá voto:] quando a matéria exigir, para sua aprovação, o voto favorável de dois terços dos membros da Câmara
+.
+Art. 26, § 2º. O voto será sempre público nas deliberações da Câmara. (Alteração feita pelo Art. 1º. - Emenda à Lei Orgânica nº 21, de 20 de dezembro de 2013)
+.
+Art. 28. As sessões da Câmara serão públicas salvo deliberação em contrário, tomada pela maioria de dois terços de seus membros, quando ocorrer motivo relevante de preservação do decoro parlamentar
+.
+Art. 29. As sessões só poderão ser abertas com a presença de, no mínimo, um terço dos membros da Câmara Municipal
+.
+Art. 29, § 1º. A votação e a discussão da matéria constante da ordem do dia só poderão ser efetuadas com a presença da maioria absoluta dos membros da Câmara Municipal
+.
+Art. 29, § 2º. A aprovação da matéria colocada em discussão dependerá do voto favorável da maioria dos Vereadores presentes à sessão, ressalvados os casos previstos nesta lei
+.
+Art. 30, II. A convocação extraordinária da Câmara Municipal, somente possível no período de recesso, far-se-á: [...] II – pela maioria dos membros da Câmara Municipal
+.
+Art. 31, § 2º, I. discutir e votar projeto de lei que dispensa, na forma do Regimento Interno, a competência do Plenário, salvo com recurso de um quinto dos membros da Casa
+.
+Art. 32. As comissões especiais de inquérito... serão criadas pela Câmara mediante requerimento de um terço de seus membros, para a apuração de fato determinado e por prazo certo...
+.
+Art. 34, II. A Lei Orgânica do Município será emendada mediante proposta: [...] II – de um terço, no mínimo, dos membros da Câmara Municipal
+.
+Art. 34, § 1º. A proposta de emenda à Lei Orgânica será votada em dois turnos, considerando-se aprovada quando obtiver, em ambos, o voto favorável de dois terços dos membros da Câmara Municipal
+.
+Art. 36. Dependerão do voto favorável da maioria absoluta dos membros da Câmara Municipal a aprovação e as alterações das seguintes matérias: I – Código Tributário... II – Código de Obras... III – Estatuto dos Servidores... IV – Regimento Interno... V – criação de cargos e aumentos de servidores
+.
+Art. 37. Dependerão do voto favorável de dois terços dos membros da Câmara Municipal: I – as leis concernentes a: a) aprovação e alteração do Plano Diretor do Município; b) zoneamento urbano... c) concessão de serviço público; d) concessão de direito real de uso; e) alienação de bens imóveis; f) aquisição de bens imóveis por doação com encargo
+.
+Art. 43. A iniciativa popular poderá ser exercida pela apresentação à Câmara Municipal, de projeto de lei de interesse específico do Município, da cidade ou de bairro, subscrito por, no mínimo, cinco por cento do eleitorado municipal, existente no início de cada sessão legislativa
+.
+Art. 46, § 3º. O veto somente poderá ser rejeitado pela maioria absoluta dos Vereadores. (Alteração feita pelo Art. 1º. - Emenda à Lei Orgânica nº 25, de 16 de outubro de 2019)
+.
+Art. 47. A matéria constante de projeto de lei rejeitado somente poderá constituir objeto de novo projeto na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara
+.
+Art. 51, § 3º. O parecer técnico prévio, emitido pelo Tribunal de Contas do Estado de São Paulo, sobre as contas do Executivo e do Legislativo, somente deixará de prevalecer por decisão de dois terços dos membros da Câmara Municipal
+.
+Art. 54. O Prefeito e o Vice-Prefeito serão eleitos... considerando-se eleitos os candidatos que obtiverem a maioria dos votos válidos, na forma da legislação eleitoral
+.
+Art. 65, VI. concluída a defesa, proceder-se-á a tantas votações quantas forem as infrações articuladas na denúncia. Considerar-se-á afastado, definitivamente, do cargo, o denunciado que for declarado, pelo voto de dois terços, pelo menos, dos membros da Câmara Municipal, incurso em qualquer das infrações... (Alteração feita pelo Art. 1º. - Emenda à Lei Orgânica nº 25, de 16 de outubro de 2019)
+.
+Art. 131-A, § 1º. A programação incluída por emendas de vereadores a Projeto de Lei Orçamentária Anual será aprovada no limite de 2% (dois por cento) da receita corrente líquida do exercício anterior ao do encaminhamento do projeto... (Alteração feita pelo Art. 1º. - Emenda à Lei Orgânica nº 33, de 24 de maio de 2023)
+.
+Art. 131-A, § 8º. Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 1º deste artigo, até o limite de 0,300% (zero virgula trezentos por cento) da receita corrente liquida realizada no exercício anterior
+.
+Art. 133, III. [São vedados] a realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares ou especiais, com finalidade precisa, aprovados pela Câmara por maioria absoluta
+.
+Art. 13 (Disposições Transitórias). A revisão desta Lei Orgânica será realizada após cinco anos da promulgação, pelo voto de dois terços dos Vereadores da Câmara Municipal, em dois turnos de votação, com interstício mínimo de dez dias
+.

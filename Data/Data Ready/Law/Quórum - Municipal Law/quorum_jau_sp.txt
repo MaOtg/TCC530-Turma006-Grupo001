@@ -1,10 +1,42 @@
-Art. 25, § 1º. A proposta [de emenda] será discutida e votada em 02 (dois) turnos [...] aprovada se obtiver, em cada um, dois terços dos votos dos Membros da Câmara
+Art. 11. O Poder Legislativo é exercido pela Câmara Municipal, para um mandato de 04 (quatro) anos, que se compõe, a partir da próxima Legislatura, de 17 (dezessete) Vereadores, representantes da comunidade, eleitos pelo sistema proporcional em todo o território municipal, pelo voto direto e secreto dos cidadãos no exercício dos direitos políticos. (Modificado pela Emenda 07 de 14 de fevereiro de 2011)
 .
-Art. 27, § 3º. A iniciativa popular pode ser exercida [...] por, no mínimo, 5% (cinco por cento) do eleitorado do Município
+Art. 12. As deliberações da Câmara Municipal são tomadas em votação aberta, por maioria de votos, presente a maioria absoluta de seus membros
 .
-Art. 30, § 4º. O veto será apreciado pela Câmara [...] só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores
+Art. 14, I. elaborar seu Regimento Interno, bem como posteriores alterações, cuja aprovação se dará, em dois turnos de votação, pela maioria absoluta dos membros do Legislativo
 .
-Art. 31. A matéria constante de Projeto de Lei rejeitado somente poderá constituir objeto de novo Projeto [...] mediante proposta da maioria absoluta dos membros da Câmara
+Art. 14, IX. apresentar ao Ministério Público, mediante decisão de 2/3 (dois terços) de seus membros requerimento de instauração de processo contra o prefeito, o vice-prefeito e os secretários municipais pela prática de crime de responsabilidade de que tomar conhecimento
+.
+Art. 18, § 2º. Nos casos dos incisos I, II e VI deste artigo, a perda do mandato é decidida pela Câmara Municipal por votação aberta e nominal e quórum de 2/3 (dois terços), mediante provocação da Mesa, de Partido Político representado na Casa ou de eleitor do Município, assegurada ampla defesa. (Modificado pela Emenda nº 14 de 21 de outubro de 2013)
+.
+Art. 20, § 4º. A convocação extraordinária da Câmara Municipal far-se-á por seu Presidente, pelo Prefeito ou mediante requerimento da maioria dos Vereadores, em caso de urgência ou de interesse público relevante
+.
+Art. 22, § 2º. As Comissões Especiais de Inquérito... serão criadas mediante requerimento de um terço dos Vereadores que compõem a Câmara, para apuração de fato determinado e por prazo certo...
+.
+Art. 25, caput. Esta Lei Orgânica poderá ser emendada mediante proposta de 1/3 (um terço), no mínimo, dos Membros da Câmara ou do Prefeito
+.
+Art. 25, § 1º. A proposta será discutida e votada em 02 (dois) turnos, com interstício mínimo de 15 (quinze) dias, considerando-se aprovada se obtiver, em cada um, dois terços dos votos dos Membros da Câmara
+.
+Art. 27, § 3º. A iniciativa popular pode ser exercida pela apresentação, à Câmara Municipal, de Projeto de Lei subscrito por, no mínimo, 5% (cinco por cento) do eleitorado do Município
+.
+Art. 30, § 4º. O veto será apreciado pela Câmara, dentro de 30 (trinta) dias contados do seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores, em escrutínio aberto e identificado
+.
+Art. 31. A matéria constante de Projeto de Lei rejeitado somente poderá constituir objeto de novo Projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara
 .
 Art. 32. As Leis Complementares serão aprovadas por maioria absoluta
+.
+Art. 34, § 6º. Somente pela decisão de 2/3 (dois terços) dos Membros da Câmara Municipal, em votação nominal, deixará de prevalecer o parecer prévio do Tribunal de Contas do Estado
+.
+Art. 59, § 10. O projeto de Lei Orçamentária Anual, conterá dotação específica para o atendimento de programações decorrentes de Emendas Individuais Parlamentares de reserva de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida. (Acrescentado pela Emenda 25 de 25 de fevereiro de 2022)
+.
+Art. 59, § 11. As Emendas Impositivas individuais ao projeto de Lei Orçamentária Anual serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida, sendo que, 50% (cinquenta inteiros por cento) deste percentual será destinado exclusivamente a ações e serviços públicos de saúde. (Acrescentado pela Emenda 25 de 25 de fevereiro de 2022)
+.
+Art. 60, II. [São vedados] a realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as autorizadas mediante créditos suplementares e especiais com a finalidade precisa, aprovadas pela Câmara Municipal por maioria absoluta
+.
+Art. 60, IV. [São vedados] a abertura de crédito suplementar ou especial sem prévia autorização legislativa, por maioria absoluta, e sem indicação dos recursos correspondentes
+.
+Art. 60, V. [São vedados] a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra, ou de um Órgão para outro, sem prévia autorização legislativa, por maioria absoluta, exigindo-se justificativa, caso a caso
+.
+Art. 60, VII. [São vedados] a utilização, sem autorização legislativa específica, por maioria absoluta, de recursos do Orçamento Anual para suprir necessidade ou cobrir déficit de empresa, fundações ou fundos do Município
+.
+Art. 60, VIII. [São vedados] a instituição de fundos e qualquer natureza sem prévia autorização legislativa, por maioria absoluta
 .

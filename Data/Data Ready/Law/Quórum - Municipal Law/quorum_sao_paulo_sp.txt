@@ -1,6 +1,45 @@
-Art. 14, XVII: [Compete à Câmara] rejeitar o parecer prévio do Tribunal de Contas do Município, pelo voto de dois terços de seus membros
+Art. 14, XIX. conceder título de cidadão honorário ou qualquer outra honraria ou homenagem à pessoa que reconhecidamente tenha prestado serviço ao Município, mediante decreto legislativo aprovado pelo voto de, no mínimo 2/3 (dois terços) de seus membros
 .
-Art. 36: A proposta [de emenda] será discutida e votada em dois turnos [...] aprovada quando obtiver, em ambos, o voto favorável de dois terços dos membros da Câmara Municipal.
-Art. 40: As leis complementares são aprovadas por maioria absoluta dos membros da Câmara.
-Art. 43: As deliberações da Câmara serão tomadas por maioria de votos, presente a maioria absoluta de seus membros, salvo disposição em contrário.
-Art. 51: O veto somente será rejeitado pelo voto da maioria absoluta dos Vereadores.
+Art. 18, § 2º. Nos casos dos incisos I, II e VI deste artigo, acolhida a acusação pela maioria absoluta dos Vereadores, a perda do mandato será decidida pela Câmara, por quórum de 2/3 (dois terço), assegurado o direito de defesa
+.
+Art. 24. Imediatamente após a posse, os Vereadores reunir-se-ão sob a presidência do mais idoso dos presentes e, havendo maioria absoluta dos membros da Câmara, elegerão os componentes da Mesa, que ficarão automaticamente empossados
+.
+Art. 26, Parágrafo único. Pelo voto de 2/3 (dois terços) dos membros da Câmara, qualquer componente da Mesa poderá ser destituído, quando negligente ou omisso no desempenho de suas atribuições regimentais, elegendo-se outro Vereador para completar o mandato
+.
+Art. 28. Ressalvados os projetos de lei de iniciativa privativa, a matéria constante de projeto de lei rejeitado somente poderá ser reapresentada, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Câmara Municipal
+.
+Art. 30. As sessões da Câmara serão públicas, salvo deliberação em contrário, tomada por 2/3 (dois terços) de seus membros, quando ocorrer motivo relevante
+.
+Art. 31, II. No período de recesso, a Câmara poderá ser extraordinariamente convocada: (...) II - pela maioria absoluta dos Vereadores
+.
+Art. 32, § 2º, VII. discutir e votar projeto de lei que dispensar, na forma do Regimento, a competência do Plenário, salvo com recurso de 1/10 (um décimo) dos membros da Casa
+.
+Art. 33. As Comissões Parlamentares de Inquérito... serão criadas pela Câmara, mediante requerimento de 1/3 (um terço) de seus membros, aprovados por maioria absoluta (nota: trecho "aprovados por maioria absoluta" foi declarado inconstitucional pelo TJ, mas consta no texto), para apuração de fato determinado...
+Art. 36, I. A Lei Orgânica poderá ser emendada mediante proposta: I - de 1/3 (um terço), no mínimo, dos membros da Câmara Municipal
+.
+Art. 36, § 2º. A proposta será discutida e votada em 2 (dois) turnos, considerando-se aprovada quando obtiver, em ambas as votações, o voto favorável de 2/3 (dois terços) dos membros da Câmara Municipal
+.
+Art. 40, caput. A discussão e votação de matéria constante da Ordem do Dia só poderá ser efetuada com a presença da maioria absoluta dos membros da Câmara
+.
+Art. 40, § 1º. A aprovação da matéria em discussão, salvo as exceções previstas nesta Lei Orgânica, dependerá do voto favorável da maioria dos Vereadores presentes à sessão
+.
+Art. 40, § 3º. Dependerão do voto favorável da maioria absoluta dos membros da Câmara a aprovação e as alterações das seguintes matérias: I - matéria tributária; II - Código de Obras e Edificações e outros Códigos; III - Estatuto dos Servidores Municipais; IV - criação de cargos, funções e empregos... V - concessão de serviço público; VI - concessão de direito real de uso; VII - alienação de bens imóveis; VIII - autorização para obtenção de empréstimo... IX - lei de diretrizes orçamentárias, plano plurianual e lei orçamentária anual; X - aquisição de bens imóveis por doação com encargo... XIV - rejeição de veto; XV - Regimento Interno da Câmara Municipal... XVII - isenções de impostos municipais; XVIII - todo e qualquer tipo de anistia; XIX - concessão administrativa de uso
+.
+Art. 40, § 4º. Dependerão do voto favorável de 3/5 (três quintos) dos membros da Câmara as seguintes matérias: I - disciplina do Parcelamento, Uso e Ocupação do Solo; II - Plano Diretor; III - Zoneamento geo-ambiental
+.
+Art. 40, § 5º. Dependerão do voto favorável de 2/3 (dois terços) dos membros da Câmara a aprovação e alterações das seguintes matérias: I - rejeição do parecer prévio do Tribunal de Contas... II - destituição dos membros da Mesa; III - emendas à Lei Orgânica; V - moção de censura pública aos secretários e subprefeitos...
+.
+Art. 42, § 5º. A Câmara Municipal deliberará sobre o veto, em um único turno de votação e discussão, no prazo de 30 (trinta) dias de seu recebimento, só podendo ser rejeitado pelo voto da maioria absoluta dos vereadores
+.
+Art. 45. As questões relevantes aos destinos do Município poderão ser submetidas a plebiscito ou referendo por proposta do Executivo, por 1/3 (um terço) dos vereadores ou por pelo menos 2% (dois por cento) do eleitorado, decidido pelo Plenário da Câmara Municipal
+.
+Art. 57, § 1º e § 2º. Será considerado eleito Prefeito o candidato que obtiver maioria absoluta de votos, não computados os brancos e os nulos. Se nenhum candidato alcançar maioria absoluta na primeira votação, far-se-á nova eleição... considerando-se eleito aquele que tiver a maioria dos votos válidos
+.
+Art. 72, § 4º. Admitida a acusação, por 3/5 (três quintos) dos membros da Câmara Municipal, será constituída Comissão Processante, composta por 7 (sete) Vereadores
+.
+Art. 72, § 5º. A perda do mandato do Prefeito será decidida por, pelo menos, 2/3 (dois terços) dos membros da Câmara Municipal
+.
+Art. 86. A criação, transformação, fusão, cisão, incorporação, privatização ou extinção das sociedades de economia mista, das empresas públicas, e, no que couber, das autarquias e fundações... depende de prévia aprovação, por maioria absoluta, da Câmara Municipal
+.
+Art. 26 (Disposições Gerais e Transitórias). Até que entre em vigor lei municipal, aprovada com voto favorável da maioria absoluta dos membros da Câmara, que discipline os benefícios do RPPS...
+.
